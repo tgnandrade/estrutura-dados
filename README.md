@@ -2,7 +2,7 @@
 
 **Fila**
 
-Uma fila implementa uma ordenação de tipo FIFO (First-In, First-Out), onde o primeiro valor adicionado será o primeiro a ser removido. Basicamente, é a mesma coisa que no mundo real! Os primeiros que chegam para serem atendidos, serão atendidos primeiro, por exemplo. Em .NET, a classe que implementa essa estrutura de dados é a Queue e *Queue < T >*.
+Uma fila implementa uma ordenação de tipo FIFO (First-In, First-Out), onde o primeiro valor adicionado será o primeiro a ser removido. Basicamente, é a mesma coisa que no mundo real! Os primeiros que chegam para serem atendidos, serão atendidos primeiro, por exemplo. Em .NET, a classe que implementa essa estrutura de dados é a Queue e *Queue\<T\>*.
 
 As principais operações de uma fila são:
 
