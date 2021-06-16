@@ -12,7 +12,7 @@ As principais operações de uma fila são:
 
 **Pilha**
 
-Uma pilha implementa uma ordenação de tipo LIFO (Last-In, First-Out), onde o último valor adicionado será o primeiro a ser removido. Um exemplo do mundo real é o de pilha de pratos para lavar, onde o que estiver no topo (último empilhado) será o primeiro a ser lavado. Em .NET, a classe que implementa essa estrutura de dados é a Stack e *Stack < T >*.
+Uma pilha implementa uma ordenação de tipo LIFO (Last-In, First-Out), onde o último valor adicionado será o primeiro a ser removido. Um exemplo do mundo real é o de pilha de pratos para lavar, onde o que estiver no topo (último empilhado) será o primeiro a ser lavado. Em .NET, a classe que implementa essa estrutura de dados é a Stack e *Stack\<T\>*.
 
 As principais operações de uma pilha são:
 
